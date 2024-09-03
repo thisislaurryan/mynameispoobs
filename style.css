@@ -45,3 +45,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* Styling for project is below */
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
